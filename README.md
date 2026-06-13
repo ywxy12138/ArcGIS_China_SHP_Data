@@ -1,0 +1,2 @@
+# ArcGIS_China_SHP_Data
+本仓库存储了一些在ArcGIS软件中绘制中国地图的shp文件，大部分为搬运，未归列在文件夹中的shp为本人的创作
